@@ -18,5 +18,3 @@ Para instalar, siga estas etapas:
 - Encontre a Ultima Versao e baixe o arquivo zip
 - Extraia o arquivo
 - Rode o executavel 
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.

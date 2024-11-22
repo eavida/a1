@@ -33,6 +33,26 @@ public class Program
     }
     //Menu Inicial
     public static void PrintStart(){
+        Console.WriteLine("     ***** **   ***                             *                                       *        ");
+        Console.WriteLine("  ******  ***    ***                          **           *                          **         ");
+        Console.WriteLine(" **   *  * **     **                          **          ***                         **         ");
+        Console.WriteLine("*    *  *  **     **                          **           *                          **         ");
+        Console.WriteLine("    *  *   *      **                          **                                      **         ");
+        Console.WriteLine("   ** **  *       **       ****       ****    **  ***    ***       ****       ****    **  ***    ");
+        Console.WriteLine("   ** ** *        **      * ***  *   * ***  * ** * ***    ***     * ***  *   * ***  * ** * ***   ");
+        Console.WriteLine("   ** ***         **     *   ****   *   ****  ***   *      **    *   ****   *   ****  ***   *    ");
+        Console.WriteLine("   ** ** ***      **    **    **   **         **   *       *    **    **   **         **   *     ");
+        Console.WriteLine("   ** **   ***    **    **    **   **         **  *       *     **    **   **         **  *      ");
+        Console.WriteLine("   *  **     **   **    **    **   **         ** **      ***    **    **   **         ** **      ");
+        Console.WriteLine("      *      **   **    **    **   **         ******      ***   **    **   **         ******     ");
+        Console.WriteLine("  ****     ***    **    **    **   ***     *  **  ***      ***  **    **   ***     *  **  ***    ");
+        Console.WriteLine(" *  ********      *** *  ***** **   *******   **   *** *    ***  ***** **   *******   **   *** * ");
+        Console.WriteLine("*     ****         ***    ***   **   *****     **   ***      **   ***   **   *****     **   ***  ");
+        Console.WriteLine("*                                                            **                                  ");
+        Console.WriteLine(" **                                                          *                                   ");
+        Console.WriteLine("                                                            *                                    ");
+        Console.WriteLine("                                                           *                                     ");
+        Console.WriteLine("                                                                                                 ");
         Console.WriteLine("Bem-vindo ao Blackjack!");
         Console.WriteLine("Voce consegue chegar a 25 vitorias seguidas botando tudo na mesa?");
         Console.WriteLine("Vitorias seguidas:"+ Vitorias);

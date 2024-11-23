@@ -260,6 +260,7 @@ public class Program
             {
                 ApostaInvalida();
             }
+        dinheiroJogador = dinheiroJogador - Apostado;
     }
 //Verifica a Aposta
     private static bool ApostaCheck()

@@ -137,6 +137,7 @@ public class Program
         if (CalcularPontos(maoJogador) == 21)
         {
             Console.WriteLine("Você Ganhou!");
+            dinheiroJogador = dinheiroJogador + (Apostado*2);
             Vitorias++;
             Thread.Sleep(5000);
             return;
@@ -161,7 +162,7 @@ public class Program
         if (pontosComputador > 21)
         {
             Console.WriteLine("O computador estourou! Você venceu.");
-            dinheiroJogador = dinheiroJogador + Apostado*2;
+            dinheiroJogador = dinheiroJogador + (Apostado*2);
             Vitorias++;
             Thread.Sleep(5000);
             
@@ -169,7 +170,7 @@ public class Program
         else if (pontosJogador > pontosComputador)
         {
             Console.WriteLine("Você venceu! Sua pontuação: " + pontosJogador + " - Pontuação do computador: " + pontosComputador);
-            dinheiroJogador = dinheiroJogador + Apostado*2;
+            dinheiroJogador = dinheiroJogador + (Apostado*2);
             Vitorias++;
             Thread.Sleep(5000);
         }

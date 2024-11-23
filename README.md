@@ -3,13 +3,9 @@
 > Jogo de cartas BlackJack feito em C# para o projeto Computabilidade e Complexidade de Algoritmos
 > Integrante: Marcos Vinicius Rodrigues de Souza - RGM: 39307182
 
-
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina <Windows / Linux / Mac. Indique qual sistema operacional é compatível / não compatível.
+## Tema e Mecanica Principal
+- Algoritmos de busca: Jogos de estratégia em tempo real, onde o jogador precisa encontrar o melhor caminho ou a melhor combinação de ações.
+- Jogos de estratégia: desenvolver jogos onde a estratégia do jogador é baseada na escolha de algoritmos eficientes
 
 ## 🚀 Instalando 
 
